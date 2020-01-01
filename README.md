@@ -28,7 +28,7 @@ ENOENT: no such file or directory, open 'notfound.md'
 unit test 実行
 
 ```bash
-$ node test
+$ npm test
   ✓ converts Markdown to HTML (GFM=false)
   ✓ converts Markdown to HTML (GFM=true)
 
