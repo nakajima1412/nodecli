@@ -1,6 +1,8 @@
 # nodecli
 
-[js-primer](https://jsprimer.net/use-case/nodecli/read-file/)の`nodecli`の学習用リポジトリ
+[js-primer](https://jsprimer.net/use-case/nodecli/read-file/)の`nodecli`の学習用リポジトリ。
+
+Markdown -> HTML に変換するコード。
 
 # Usage
  
